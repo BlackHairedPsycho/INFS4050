@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Placeholder</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Candara;
+}
+
+
+header {
+  background-color: #99ccff;
+  padding: 5px;
+  text-align: left;
+  font-size: 20px;
+  color: #ebebe0;
+  font-family: Optima;
+}
+
+
+nav {
+  float: left;
+  width: 10%;
+  height: 600px; 
+  background: #e6f2ff;
+  padding: 20px;
+  font-family: Candara;
+  font-size; 60px;
+}
+
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 90%;
+  background-color: #b3d9ff;
+  height: 600px; 
+  
+}
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+  background-color: #b3d9ff;
+  padding: 30px;
+  text-align: left;
+  
+  font-family: Candara;
+}
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+
+<header>
+  <h2>Placeholder </h2>
+  
+</header>
+
+<section>
+  <nav>
+    <ul>
+	  <li><a href="login.php">Link 1</a></li>
+      <li><a href="Welcome Page.html">Link 2</a></li>
+      <li><a href="aboutus.php">Link 3</a></li>
+      <li><a href="facts.php">Lnk 4</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Welcome!</h1>
+    <p>Hey guys did you know that in terms of water Pokemon inland, Vaporeon would be very capable of hunting grown humans?
+
+Their bodies being the size of a medium dog and weight are just enough to pounce on a man and throw him to the ground. Their bulky stats would allow them to shrug off and outlast any attempts by the human to fight them off, and that's not getting even into moves like Hydro Pump and Scald. But that's not all these water dogs have up their sleeves.</p>
+
+
+<p> Their bodies being so similar to water not only lets them hide in bodies of water and become nearly invisible to catch prey off guard, but allows them to enter the body through almost any orifice. Things do not get any better once a Vaporeon is inside of you. If asphyxiation doesn't kill you, the internal bleeding and displacement of internal organs certainly will. In addition, they are able to learn Charm, allowing them to take advantage of certain... desires humans may have and create even more opportunities to go in for the kill.</p>
+
+<p>But wait, there's more. Since Vaporeon is an omnivore, its cells would need to be able to digest proteins, such as those in meat. This only opens even more possibilities as to what these creatures are capable of.</p>
+    
+<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+
+<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+
+<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
+<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek.</p>
+  </article>
+</section>
+
+<footer>
+  <p>Placeholder</p>
+</footer>
+
+</body>
+</html> 
